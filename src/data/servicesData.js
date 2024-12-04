@@ -19,7 +19,7 @@ export const servicesData = [
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Building Plans',
         icon: <AiOutlineMail />
     },
     // {
@@ -35,7 +35,7 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: '3D Rendering',
         icon: <BsCodeSlash />
     },
     {
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'Web Development',
         icon: <FaTabletAlt />
     },
     // {
@@ -70,7 +70,7 @@ export const servicesData = [
     // },
     {
         id: 13,
-        title: 'Blog Posting',
+        title: 'Blockchain Development',
         icon: <FaRegNewspaper />
     },
 

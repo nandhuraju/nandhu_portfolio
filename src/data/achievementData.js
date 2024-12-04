@@ -3,17 +3,17 @@ export const achievementData = {
   achievements: [
     {
       id: 1,
-      title: "Professional Data Engineer Certification",
+      title: "Certified-Hyperledger-Fabric-Developer",
       details:
         "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
-      date: "Aug 20, 2019",
+      date: "Nov, 2024",
       field: "FullStack/Blockchain",
       image:
         "https://learn.kba.ai/wp-content/uploads/2021/11/06_Certified-Hyperledger-Fabric-Developer.png",
     },
     {
       id: 2,
-      title: "Professional Data Engineer Certification",
+      title: "Certified Blockchain Associate",
       details:
         "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
       date: "Aug 20, 2019",
@@ -23,7 +23,7 @@ export const achievementData = {
     },
     {
       id: 3,
-      title: "Professional Data Engineer Certification",
+      title: "Developer Essentials for Blockchain",
       details:
         "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
       date: "Aug 20, 2019",

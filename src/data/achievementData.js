@@ -5,9 +5,9 @@ export const achievementData = {
       id: 1,
       title: "Certified-Hyperledger-Fabric-Developer",
       details:
-        "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
+        "The Certified Hyperledger Fabric Developer certification validates expertise in building and deploying enterprise-grade blockchain applications using Hyperledger Fabric. It demonstrates proficiency in chaincode development, multi-org network setup, and Node.js SDK integration.",
       date: "Nov, 2024",
-      field: "FullStack/Blockchain",
+      field: "Blockchain",
       image:
         "https://learn.kba.ai/wp-content/uploads/2021/11/06_Certified-Hyperledger-Fabric-Developer.png",
     },
@@ -15,21 +15,21 @@ export const achievementData = {
       id: 2,
       title: "Certified Blockchain Associate",
       details:
-        "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
-      date: "Aug 20, 2019",
+        "The Certified Blockchain Associate (CBA) course by Kerala Blockchain Academy offers a beginner-friendly introduction to blockchain technology, covering its principles, applications, and ecosystem. It lays the foundation for advancing careers in blockchain and serves as a prerequisite for specialized certifications like Certified Ethereum Developer and Certified Hyperledger Fabric Developer.",
+      date: "Aug , 2024",
       field: "Blockchain",
       image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "https://learn.kba.ai/wp-content/uploads/2021/11/08_Certified-Blockchain-Associate.png",
     },
     {
       id: 3,
       title: "Developer Essentials for Blockchain",
       details:
-        "Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.",
-      date: "Aug 20, 2019",
-      field: "Blockchain",
+        "The Developer Essentials for Blockchain course equips learners with the foundational skills to build applications in the blockchain space by combining web development and essential tools like React, Node.js, MongoDB, Docker, and Git. Designed for individuals with basic programming knowledge, it provides hands-on experience through the creation of a simple DApp, paving the way for advanced blockchain development.",
+      date: "Aug , 2024",
+      field: "Fullstack/Blockchain",
       image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "https://learn.kba.ai/wp-content/uploads/2022/06/03_Developer-Essentials-Program-Banner.png",
     },
   ],
 };

@@ -15,7 +15,7 @@ export const achievementData = {
       id: 2,
       title: "Certified Blockchain Associate",
       details:
-        "The Certified Blockchain Associate (CBA) course by Kerala Blockchain Academy offers a beginner-friendly introduction to blockchain technology, covering its principles, applications, and ecosystem. It lays the foundation for advancing careers in blockchain and serves as a prerequisite for specialized certifications like Certified Ethereum Developer and Certified Hyperledger Fabric Developer.",
+        "The Certified Blockchain Associate (CBA) course by Kerala Blockchain Academy offers a beginner-friendly introduction to blockchain technology, covering its principles, applications, and ecosystem.",
       date: "Aug , 2024",
       field: "Blockchain",
       image:
@@ -25,7 +25,7 @@ export const achievementData = {
       id: 3,
       title: "Developer Essentials for Blockchain",
       details:
-        "The Developer Essentials for Blockchain course equips learners with the foundational skills to build applications in the blockchain space by combining web development and essential tools like React, Node.js, MongoDB, Docker, and Git. Designed for individuals with basic programming knowledge, it provides hands-on experience through the creation of a simple DApp, paving the way for advanced blockchain development.",
+        "The Developer Essentials for Blockchain course equips learners with the foundational skills to build applications in the blockchain space by combining web development and essential tools like React, Node.js, MongoDB, Docker, and Git.",
       date: "Aug , 2024",
       field: "Fullstack/Blockchain",
       image:
